@@ -10,4 +10,10 @@ public void Sceneloader(int SceneIndex)
         SceneManager.LoadScene(SceneIndex);
 
     }
+public void afsluiten()
+{
+        Application.Quit();
+
+
+    }
 }
